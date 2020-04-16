@@ -1,3 +1,3 @@
 # hello-world
 próba
-a fő utcán jártam oviba.
+a Fő uccába jártam oviba.
