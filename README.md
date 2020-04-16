@@ -1,3 +1,3 @@
 # hello-world
 próba
-a Kút uccába jártam 
+a Fő uccába jártam oviba.
