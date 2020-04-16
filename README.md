@@ -1,3 +1,3 @@
 # hello-world
 próba
-a kút uccába jártam 
+a Kút uccába jártam 
